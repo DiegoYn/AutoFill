@@ -35,9 +35,11 @@ python3 encuesta.py
 Necesitas el link original a la encuesta , este lo encontras de la siguiente manera
 
 Click derecho en la encuesta e inspeccionar elemento
-[foto]
+![image](https://github.com/user-attachments/assets/04eb68fc-2e14-43f8-8496-011235d9fd85)
+
 
 casi al principio se encuentra el iframe que contiene el link a la encuesta original
+![image1](https://github.com/user-attachments/assets/bbfee372-e26d-4616-a3fa-9104c8d4b5e4)
 
 Ejecutas el script y pegas el link
 
