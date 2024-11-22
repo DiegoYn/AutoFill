@@ -39,7 +39,8 @@ Click derecho en la encuesta e inspeccionar elemento
 
 
 casi al principio se encuentra el iframe que contiene el link a la encuesta original
-![image1](https://github.com/user-attachments/assets/4388c394-80c5-4eed-840f-38c5239c5654)
+![image1](https://github.com/user-attachments/assets/91d2cbbf-8a88-456a-aad0-4caa32c7b3e5)
+
 
 
 Ejecutas el script y pegas el link
