@@ -19,9 +19,7 @@ ingresas un valor entre 0 y 10 , siendo 0 marcar los botones con la opcion No op
 Escriben si y se envia el formulario , luego solo basta recargar su pagina del siu para ver que la encuesta se respondió correctamente
 
 
-Por defecto los text area de las ultimas 3 preguntas se rellenan con "No opina" si quieren personalizarlo pueden abrir el archivo con cualquier editor de texto y cambiar 
-form_data[textarea["name"]] = "No opina" 
-y cambiar el mensaje
+Por defecto los text area de las ultimas 3 preguntas se rellenan con "No opina"
 
 
 
