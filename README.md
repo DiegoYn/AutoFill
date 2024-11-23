@@ -45,9 +45,9 @@ casi al principio se encuentra el iframe que contiene el link a la encuesta orig
 
 Ejecutas el script y pegas el link
 
-ingresas un valor entre 0 y 10 , siendo 0 marcar los botones con la opcion No opina y siendo 10 marcando 100%
+ingresas un valor entre 0 y 10 , siendo 0 marcar los botones con la opcion No opina y siendo 10 marcando 100%.
 
-escriben si y se envia el formulario , luego solo basta recargar su pagina del siu para ver que la encuesta se respondió correctamente
+Escriben si y se envia el formulario , luego solo basta recargar su pagina del siu para ver que la encuesta se respondió correctamente
 
 
 Por defecto los text area de las ultimas 3 preguntas se rellenan con "No opina" si quieren personalizarlo pueden abrir el archivo con cualquier editor de texto y cambiar 
