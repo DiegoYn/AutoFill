@@ -1,6 +1,6 @@
 
 # AutoFill
-Auto completar encuestas Docentes UTN frba
+Auto completar encuestas de docentes UTN frba
 
 ## Uso
 Clonas/descargas el repo
