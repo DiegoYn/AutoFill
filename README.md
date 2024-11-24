@@ -16,7 +16,7 @@ Click derecho en la encuesta e inspeccionar elemento
 casi al principio se encuentra el iframe que contiene el link a la encuesta original
 ![image1](https://github.com/user-attachments/assets/91d2cbbf-8a88-456a-aad0-4caa32c7b3e5)
 
-pegas el link
+pegas el link presionas enter
 
 ingresas un valor entre 0 y 10 , siendo 0 marcar los botones con la opcion No opina y siendo 10 marcando 100%.
 
