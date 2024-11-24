@@ -4,6 +4,7 @@ Auto completar encuestas Docentes UTN frba
 
 ## Uso
 Clonas/descargas el repo
+
 dentro de la carpeta dist encontras el encuesta.exe , lo ejecutas y pegas el link a la encuesta.
 
 Este lo encontras de la siguiente manera
