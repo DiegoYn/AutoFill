@@ -26,5 +26,4 @@ Escriben si y se envia el formulario , luego solo basta recargar su pagina del s
 Por defecto los text area de las ultimas 3 preguntas se rellenan con "No opina"
 
 
-
-
+Agradecimientos a michelle :)
